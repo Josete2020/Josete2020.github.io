@@ -1,0 +1,29 @@
+*/
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+
+*{
+    margin: 0px;
+    font-family: 'Bangers', cursive;
+}
+
+div {
+    background-color: gray;
+}
+
+h1{
+    color: rgb(32, 57, 94);
+}
+
+#Antonio{
+    background-color: indigo;
+}
+
+.monica{
+    color: lawngreen;
+}
