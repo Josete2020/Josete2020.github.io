@@ -1,12 +1,11 @@
 /*
 
 */
-@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');t url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
 
 *{
     margin: 0px;
-    font-family: 'Bangers', cursive;
-}
+    font-family: 'Roboto', sans-serif;
 
 div {
     background-color: gray;
