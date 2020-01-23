@@ -1,6 +1,6 @@
+/*
+
 */
-
-
 @import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
 
 *{
@@ -22,7 +22,11 @@ h1{
 
 .monica{
     color: lawngreen;
+
+
 }
 body{
-    background-color: orangered;
-}
+    background-color: orange
+
+
+
